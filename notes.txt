@@ -58,3 +58,28 @@ Recursion
 		performing the same operation multiple times with different inputs
 		in every steps we try smaller inputs to make the problem smaller
 		base condition is needed to stop recursion, otherwise infinite loop will occur
+	why we need recursion?
+		recursive thinking is really important in programming and it helps you break down big problem into smaller ones and easier to use.
+			when to choose recursion?
+				if you can divine the problem into similar sub problems
+				design an algorithm to compute nth...
+				write code to list the n...
+				implement a method to compute all
+				practice
+		prominent usage of recursion in data structure like trees and graphs.
+		interviews
+		it is used in many algorithms (divide and conquer, greedy and dynamic programming)
+	logic behind recursion
+		a method calls itself
+		exit from infinite loop
+	when to use recursion?
+		when we can easily breakdown a problem into similar subproblem.
+		when we are fine with extra overhead (both space and time) that comes with it.
+		when we need a quick working solution instead of efficient one.
+		when traverse a tree
+		when we use memorization in recursion
+	when to avoid recursion?
+		if time and space complexity matters for us.
+		recursion use more memory. if we use embedded memory, for example an application that takes more memory in phone is not efficient.
+		recursion can be slow, as it requires the stack memory to allocate
+		
