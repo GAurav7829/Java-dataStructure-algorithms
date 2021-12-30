@@ -1,6 +1,8 @@
 Data Structure
 	different ways of organizing data on your computer, that can be used effectively.
 
+*****************************************************************************************************************
+
 Algorithm
 	set of instructions to perform a task
 	set of rules for a computer program to accomplish a task
@@ -8,6 +10,8 @@ Algorithm
 	good algorithm
 		correctness
 		efficiency
+
+*****************************************************************************************************************
 
 Types of Data structures
 	primitive
@@ -27,6 +31,8 @@ Types of Data structures
 			tree
 			graph
 
+*****************************************************************************************************************
+
 Types of algorithms
 	simple recursive algorithms
 		iterative algorithms
@@ -45,3 +51,10 @@ Types of algorithms
 	randomized algorithms
 		use a random number at least once during the computation to make a decision
 
+*****************************************************************************************************************
+
+Recursion
+	way of solving a problem by having a function calling itself
+		performing the same operation multiple times with different inputs
+		in every steps we try smaller inputs to make the problem smaller
+		base condition is needed to stop recursion, otherwise infinite loop will occur
