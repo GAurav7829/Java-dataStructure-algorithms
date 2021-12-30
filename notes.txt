@@ -1,2 +1,47 @@
 Data Structure
 	different ways of organizing data on your computer, that can be used effectively.
+
+Algorithm
+	set of instructions to perform a task
+	set of rules for a computer program to accomplish a task
+	input data	->	calculation	->	stop when answer found
+	good algorithm
+		correctness
+		efficiency
+
+Types of Data structures
+	primitive
+		Integer
+		Float
+		Character
+		Boolean
+	non-primitive
+		Linear
+			static
+				array
+			dynamic
+				linked List
+				Stack
+				Queue
+		non-linear
+			tree
+			graph
+
+Types of algorithms
+	simple recursive algorithms
+		iterative algorithms
+	divide and conquer algorithms
+		divide the problem into smaller subproblems of same type, and solve these subproblems recursively
+		combine the solutions to the subproblems into a solution to the original problem
+		eg: Quick sort and merge sort
+	dynamic programming algorithms
+		work based on memorization
+		to find the best solution
+	greedy algorithms
+		we take the best we can, without worrying about future consequences
+		we hope that by choosing a local optimum solution at each step, we will end up at a global optimum solution
+	brute force algorithms
+		it simply tries all possibilities until a satisfactory solution found
+	randomized algorithms
+		use a random number at least once during the computation to make a decision
+
